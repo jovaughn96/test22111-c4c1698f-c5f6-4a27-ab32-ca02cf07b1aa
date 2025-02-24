@@ -1,7 +1,6 @@
+import React from "react";
 
-import React from 'react';
 import { Button } from '@/components/ui/button';
-
 const Home = () => {
   return (
     <div className="min-h-screen bg-background flex flex-col items-center justify-center">
@@ -21,23 +20,16 @@ const Home = () => {
             <h3 className="text-2xl font-bold mb-2">Feature One</h3>
             <p>Detail about feature one.</p>
           </div>
-          <div className="p-6 bg-secondary text-secondary-foreground rounded-lg shadow-md">
             <h3 className="text-2xl font-bold mb-2">Feature Two</h3>
             <p>Detail about feature two.</p>
-          </div>
-          <div className="p-6 bg-secondary text-secondary-foreground rounded-lg shadow-md">
             <h3 className="text-2xl font-bold mb-2">Feature Three</h3>
             <p>Detail about feature three.</p>
-          </div>
-        </section>
       </main>
       <footer className="w-full py-4 bg-primary text-primary-foreground">
         <div className="container mx-auto px-4 text-center">
           <p>&copy; 2025 SaaS Product. All rights reserved.</p>
-        </div>
       </footer>
     </div>
   );
 };
-
 export default Home;
