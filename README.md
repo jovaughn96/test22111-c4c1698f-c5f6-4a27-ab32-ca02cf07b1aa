@@ -1,5 +1,5 @@
 
-# React + TypeScript + Vite + Tailwind CSS + Shadcn/UI and Beta
+# React + TypeScript + Vite + Tailwind CSS + Shadcn/UI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -11,8 +11,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Features
 
-- Ã¢ÂÂ¡Ã¯Â¸Â Vite
-- Ã¢ÂÂÃ¯Â¸Â React 18
+- Vite
+- React 18
 - Ã°ÂÂÂ TypeScript
 - Ã°ÂÂÂ¨ Tailwind CSS
 - Ã°ÂÂÂ¥ Shadcn/UI Components
